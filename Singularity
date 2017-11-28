@@ -567,6 +567,6 @@ zlib.x86_64
 
 %runscript
     echo "Running bash -l in the container"
-    echo "use 'scl -l' to list and 'scl enable devtoolset-N bash; to activate SCL devtoolset-N"
+    echo "use 'scl -l' to list and 'scl enable devtoolset-N bash' to activate SCL devtoolset-N"
     bash -l
 
